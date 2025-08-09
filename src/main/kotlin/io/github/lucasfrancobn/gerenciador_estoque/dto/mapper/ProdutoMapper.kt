@@ -1,6 +1,5 @@
 package io.github.lucasfrancobn.gerenciador_estoque.dto.mapper
 
-import io.github.lucasfrancobn.gerenciador_estoque.dto.AtualizarProdutoRequest
 import io.github.lucasfrancobn.gerenciador_estoque.dto.CadastrarProdutoRequest
 import io.github.lucasfrancobn.gerenciador_estoque.dto.ProdutoResponse
 import io.github.lucasfrancobn.gerenciador_estoque.model.Produto

@@ -12,7 +12,7 @@ import java.util.UUID
 
 @Service
 class ProdutoService(
-    val repository: ProdutoRepository
+    private val repository: ProdutoRepository
 ) {
     fun cadastrarProduto(request: CadastrarProdutoRequest): ProdutoResponse {
         val produto = toProduto(request)
