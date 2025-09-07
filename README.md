@@ -58,8 +58,6 @@ Após isso, rode o seguinte comando no diretório raiz do projeto (somente se ti
 docker-compose up
 ```
 
-PS: Por questões de segurança, a autenticação/autorização com o google não estará disponível para testar, mas ainda será possível se autenticar via fluxo Authorization Code
-
 ## Desenvolvedores
 <table align="center">
   <tr>
